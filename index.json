@@ -1,0 +1,42 @@
+[{
+        "id": 1,
+        "name": "The Heirs",
+        "imdbRating":7.5,
+        "description":
+        "genre":["Drama","Romance""Teen"],
+        "platform":["Netflix","MxPlayer"],
+        "casting": {
+            "actors": [
+              "Lee Min Ho",
+              "Park Shin Hye",
+              "Kim Woo Bin",
+              "Kang Min Hyuk",
+              "Kang Ha Nuel"
+              "Park Hyung Sik"
+            ],
+            "director": ["Kang Shin Ho","Boo Sung Chul"]
+        },
+        "poster":" https://images.app.goo.gl/VVk68LWM1KsziYyo8",
+        "episodeCount": 20,
+        "seasons": 1,
+        "releaseDate":"9 Oct 2013"
+    },
+{
+    "id": 1,
+        "name":"Hotel Del Luna"
+        "imdbRating": 8.2,
+        "description":
+        "genre":["Romantic Comedy","Dark Fantasy"],
+        "platform":["Netflix"]
+        "casting": {
+            "actors": [
+            ],
+            "director": []
+        },
+        "poster":
+        "episodeCount":
+        "seasons":
+        "releaseDate":
+    }
+]
+ 
