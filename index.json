@@ -2,7 +2,7 @@
         "id": 1,
         "name": "The Heirs",
         "imdbRating":7.5,
-        "description":
+        "description":" The series follows a group of wealthy, privileged high school students as they are about to take over their families' business empires, overcoming difficulties and growing every step of the way."
         "genre":["Drama","Romance""Teen"],
         "platform":["Netflix","MxPlayer"],
         "trailer":"https://www.youtube.com/watch?v=SbRIn4Dhqgw",
@@ -26,7 +26,7 @@
     "id": 1,
         "name":"Hotel Del Luna"
         "imdbRating": 8.2,
-        "description":
+        "description":"When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world."
         "genre":["Romantic Comedy","Dark Fantasy"],
         "platform":["Netflix"],
         "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
