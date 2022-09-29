@@ -5,6 +5,7 @@
         "description":
         "genre":["Drama","Romance""Teen"],
         "platform":["Netflix","MxPlayer"],
+        "trailer":"https://www.youtube.com/watch?v=SbRIn4Dhqgw",
         "casting": {
             "actors": [
               "Lee Min Ho",
@@ -27,16 +28,24 @@
         "imdbRating": 8.2,
         "description":
         "genre":["Romantic Comedy","Dark Fantasy"],
-        "platform":["Netflix"]
+        "platform":["Netflix"],
+        "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
         "casting": {
             "actors": [
+              "Yeo Jin Goo",
+              "Lee Ji Eun",
+              "Jung Dong Hwan",
+              "Shin Jung Guen",
+              "Bae Hae Sun",
+              "Pyo Ji Hoon",
+              "Kang Mi Na"
             ],
-            "director": []
+            "director": ["Oh Choong Hwan"]
         },
-        "poster":
-        "episodeCount":
-        "seasons":
-        "releaseDate":
+        "poster":"https://images.app.goo.gl/ciLKLBrcGFoywNVf7",
+        "episodeCount":16
+        "seasons":1
+        "releaseDate":"13 July 2019"
     }
 ]
  
