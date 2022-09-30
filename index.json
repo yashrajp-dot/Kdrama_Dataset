@@ -117,6 +117,31 @@
         "releaseDate":"21 feb 2021"
     }
 
+ {  
+        "name":"Tomorrow",
+        "imdbRating": 7.8,
+        "description":"Made half-human and half-spirit by accident, a young man is employed by grim reapers to carry out special missions.."
+        "genre":[" Fantasy television"],
+        "platform":["Netflix"],
+        "trailer":"https://youtu.be/BsNRPkOV_Mo",
+        "casting": {
+            "actors": [
+              "Kim Hee-sun ",
+              "Rowoon ",
+              "Lee Soo-hyuk ",
+              "Shin Jung Guen",
+              "Park Sang-hoon ",
+             
+            ],
+            "director": ["Kim Tae-yoon",
+"Sung Chi-wook"]
+        },
+        "poster":"https://upload.wikimedia.org/wikipedia/en/3/3a/Tomorrow_%282022%29.jpg",
+        "episodeCount":16,
+        "seasons":1,
+        "releaseDate":"	April 1 "
+    }
+
 ]
  
 	
