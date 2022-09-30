@@ -211,6 +211,21 @@
             ],
             "director": ["LEE TAE HWAN"]
         }
+	{
+         "id": 5,
+        "name":"Crash Landing on You",
+        "imdbRating": 8.6,
+        "description":" The drama tells an infectiously amusing inter-Korean love story that'll please both romance fans and those interested in geopolitics."
+	"genre":["Romantic Comedy"],
+        "platform":["Netflix"],
+        "trailer":"https://www.youtube.com/watch?v=eXMjTXL2Vks",
+        "casting": {
+            "actors": [
+              " Hyun Bin and Son Ye-Jin "
+            ],
+            "director": ["Lee Jeong-hyo"]
+        }
+
 
 ]
  
