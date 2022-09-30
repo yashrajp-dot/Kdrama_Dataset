@@ -196,7 +196,21 @@
     }
 
 
-
+{
+         "id": 4,
+        "name":"what's wrong with secretary tom",
+        "imdbRating": 9.7,
+        "description":"Directed by Park Joon Hwa, “What’s Wrong With Secretary Kim” is a much-loved 2018 kdrama based on the novel by Jung Kyung Yoon and following webcomic by Kim Young Mi. With much of the series’ inspiration coming from the original material, a star-studded cast ensures What's Wrong with Secretary Kim? is a must-watch for fans of kdramas. With endless romantic and comedic moments to enjoy, you’ll find yourself finishing the series in no time at all.",
+        "genre":["Romantic Comedy"],
+        "platform":["viki"],
+        "trailer":"https://www.viki.com/tv/35835c-whats-wrong-with-secretary-kim",
+        "casting": {
+            "actors": [
+              "Park Seo Joon",
+              " Park Min Young"
+            ],
+            "director": ["LEE TAE HWAN"]
+        }
 
 ]
  
