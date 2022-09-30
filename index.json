@@ -116,6 +116,31 @@
         "seasons":1
         "releaseDate":"21 feb 2021"
     }
+{
+    "id": 10,
+        "name":"Vincenzo"
+        "imdbRating": 8.4,
+        "description":"During a visit to his motherland, a korean-italian mafia lawyer gives a conglomerate a taste of its own medicine with a side of justice"
+        "genre":["Crime drama, dark fantacy"],
+        "platform":["Netflix"],
+        "trailer":"https://youtu.be/S12-4mXCNj4",
+        "casting": {
+            "actors": [
+              "Song Joong-ki",
+              "jeon yeo-been",
+              "ok taec-yeon",
+              "kim yeo-jin",
+              "kwak dong-yeon",
+              "jo han-chul"
+            ],
+            "director": ["Kim hee-won"]
+        },
+        "poster":"https://images.app.goo.gl/q2VYZrodPPKMZE4S7",
+        "episodeCount":20
+        "seasons":1
+        "releaseDate":"21 feb 2021"
+    }
+
 
 ]
  
