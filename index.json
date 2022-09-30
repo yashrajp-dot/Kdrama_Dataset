@@ -169,7 +169,29 @@
         "episodeCount":20
         "seasons":1
         "releaseDate":"21 feb 2021"
-    }
+    },
+    {
+        "id": 11,
+            "name":"Kill Heel",
+            "imdbRating": 6.5,
+            "description":"A story of the endless desires and struggles of 3 women at UNI Home Shopping.",
+            "genre":["Drama, Thriller"],
+            "platform":["Netflix"],
+            "trailer":"https://www.youtube.com/watch?v=veCsMgntmpM",
+            "casting": {
+                "actors": [
+                    "Kim Ha Neul",
+                    "Kim Sung Ryung",
+                    "Lee Hye Young"
+                  
+                ],
+                "director": ["Noh Do Cheol"]
+            },
+            "poster":"https://www.google.com/search?rlz=1C1GCEJ_enIN1001IN1001&sxsrf=ALiCzsbAE3zKemGq9ESoYM1v7s8tyaD2FA:1664557195641&source=univ&tbm=isch&q=kill+heel+korean+poster+link&fir=jjdMoH7OKhGXSM",
+            "episodeCount":14,
+            "seasons":1,
+            "releaseDate":"9 March 2022"
+        }
 
 
 
