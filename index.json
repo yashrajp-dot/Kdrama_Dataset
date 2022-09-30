@@ -8,6 +8,7 @@
         "genre":["Drama","Romance""Teen"],
 
         "platform":["Netflix","MxPlayer"],
+	"producer":["Yoon Ha-rim"],
         "trailer":"https://www.youtube.com/watch?v=SbRIn4Dhqgw",
         "casting": {
             "actors": [
@@ -18,6 +19,8 @@
               "Kang Ha Nuel"
             ],
             "director": ["Kang Shin Ho","Boo Sung Chul"]
+		
+		
         },
         "poster":" https://images.app.goo.gl/VVk68LWM1KsziYyo8",
         "episodeCount": 20,
@@ -33,6 +36,7 @@
     
 
         "platform":["Netflix"],
+	"producer":["Studio Dragon"],
         "trailer":"https://www.youtube.com/watch?v=lJ3_1v8sB48",
         "casting": {
             "actors": [
