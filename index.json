@@ -211,21 +211,30 @@
             ],
             "director": ["LEE TAE HWAN"]
         }
-	{
-         "id": 5,
-        "name":"Crash Landing on You",
-        "imdbRating": 8.6,
-        "description":" The drama tells an infectiously amusing inter-Korean love story that'll please both romance fans and those interested in geopolitics."
-	"genre":["Romantic Comedy"],
+{
+    "id": 17,
+        "name":"The Light In Your Eyes"
+        "imdbRating": 7.8,
+        "description":"A tragic accident causes a woman to lose all her time before she can use it up; a man gives up all of his radiant moments and lives a lethargic life. "
+        "genre":[" Romance, Life, Drama, Melodrama"],
         "platform":["Netflix"],
-        "trailer":"https://www.youtube.com/watch?v=eXMjTXL2Vks",
+        "trailer":"https://www.imdb.com/video/vi2028061465/?playlistId=tt9466968&ref_=tt_ov_vi",
         "casting": {
             "actors": [
-              " Hyun Bin and Son Ye-Jin "
+              "Kim Hye-ja",
+              "Nam Joo-hyuk",
+              "Han Ji-min",
+              "kim yeo-jin",
+              "Son Ho-jun",
+              "Lee Jung-eun"
             ],
-            "director": ["Lee Jeong-hyo"]
-        }
-
+            "director": ["	Kim Suk-yoon"]
+        },
+        "poster":"https://en.wikipedia.org/wiki/The_Light_in_Your_Eyes_(TV_series)#/media/File:The_Light_in_Your_Eyes.jpg",
+        "episodeCount":22
+        "seasons":2
+        "releaseDate":"10 Oct 2021"
+    }
 
 ]
  
